@@ -1,3 +1,11 @@
+/**
+ * @description       : 
+ * @author            : ChangeMeIn@UserSettingsUnder.SFDoc
+ * @group             : 
+ * @last modified on  : 12-25-2022
+ * @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
+**/
+//autosaved enabled
 public with sharing class GeocodingService {
     private static final String BASE_URL = 'https://nominatim.openstreetmap.org/search?format=json';
 

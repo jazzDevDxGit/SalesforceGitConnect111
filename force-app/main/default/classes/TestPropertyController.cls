@@ -2,7 +2,7 @@
  * @description       : 
  * @author            : ChangeMeIn@UserSettingsUnder.SFDoc
  * @group             : 
- * @last modified on  : 12-21-2022
+ * @last modified on  : 12-23-2022
  * @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
 **/
 @isTest
@@ -67,7 +67,7 @@ private class TestPropertyController {
                 0,
                 0,
                 10,
-                1
+                22
             );
             Test.stopTest();
             System.assertEquals(5, result.records.size());
